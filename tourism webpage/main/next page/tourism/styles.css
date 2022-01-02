@@ -1,0 +1,58 @@
+h1{
+    font-family:Copperplate Gothic Light;
+    font-size: 100px;
+}
+h2,h3{
+    font-family: Bahnschrift;
+    font-size: 40px;
+}
+p{
+    font-family: Cascadia Code;
+    font-size: 20px;
+}
+
+.container-1,.container-2,.container-3,.container-4,.container-5,.container-6,.container-7,.container-8{
+    display: flex;
+   
+}
+a:link{
+    color: black;
+    text-decoration: none;
+}
+a:visited{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color:red;
+    text-decoration:none;
+}
+a:active{
+    color: royalblue;
+}
+.star-1,.star-2,.star-3{
+    display: flex;
+    
+}
+body{
+    background-color: white;
+}
+.button{
+    font-family: Cascadia Code;
+    font-size: 20px;
+    border: 1px black;
+    border-width: 15px;
+}
+.button:link{
+    color: black;
+    text-decoration: none;
+}
+.button:hover{
+    color: black;
+    text-decoration: none;
+}
+.button:active{
+    color: black;
+    text-decoration: none;
+}
+
